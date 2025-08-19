@@ -1,1 +1,6 @@
-*.class\n*.log\n*.jar\nbin/\nout/
+*.class
+*.log
+*.jar
+bin/
+out/
+

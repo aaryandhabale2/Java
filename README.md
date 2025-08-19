@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Java Project
-=======
-# Java
->>>>>>> 6704e3720ab67e51efd2c1d2417cc3a88a4754b1
+# Java Project\nThis is my Java project pushed from local to GitHub.

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Arithmetic_03 {
     public static void main(String[] args) {
-        int A , B ;
+        int A, B;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of A: ");
         A = sc.nextInt();
@@ -11,15 +11,12 @@ public class Arithmetic_03 {
 
         // Arithmetic operation
 
-        
- 
-    System.out.println("Addition: " + (A + B));
+        System.out.println("Addition: " + (A + B));
         System.out.println("Subtraction: " + (A - B));
         System.out.println("Multiplication: " + (A * B));
         System.out.println("Division: " + (A / B));
         System.out.println("Modulus: " + (A % B));
 
-        
         // Increment and Decrement
         A++;
         System.out.println("Incremented A: " + A);

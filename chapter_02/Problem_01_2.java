@@ -1,4 +1,4 @@
-public class Problem_01 {
+public class Problem_01_2 {
     public static void main(String[] args){
         int x = 2;
         int y = 5;

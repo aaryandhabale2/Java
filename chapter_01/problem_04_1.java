@@ -1,4 +1,4 @@
-public class problem_04 {
+public class problem_04_1 {
     public static void main(String[] args) {
        byte  b= 4;
        char c = 'a';

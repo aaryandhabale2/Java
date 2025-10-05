@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class problem_01 {
+public class problem_01_1 {
     // This program calculates the sum of three numbers entered by the user
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
